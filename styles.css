@@ -2,14 +2,12 @@
 
 .primo-page {
   --tw-text-opacity: 1;
-  color: rgba(191, 219, 254, var(--tw-text-opacity));
+  color: rgba(5, 56, 107, var(--tw-text-opacity));
 }
 
 .primo-copy {
   font-size: 1.125rem;
   line-height: 1.75rem;
-  --tw-text-opacity: 1;
-  color: rgba(31, 41, 55, var(--tw-text-opacity));
 }
 
 .primo-copy h1 {
