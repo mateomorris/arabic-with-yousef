@@ -1096,6 +1096,10 @@ video {
 
 /* Default content styles */
 
+.block {
+  content-visibility: auto;
+}
+
 .primo-page {
   --tw-text-opacity: 1;
   color: rgba(5, 56, 107, var(--tw-text-opacity));
